@@ -1,5 +1,7 @@
 🌠 About Me:
+
 Hi there! 👋
+
 👩‍💻 Aspiring Software Developer passionate about software development.
 💻 Learning and practicing Python, Java, and Web Development.
 🚀 Exploring new technologies and improving my programming skills.
